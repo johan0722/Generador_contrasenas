@@ -1,1 +1,1 @@
-# Generador_contrasenas
+# Generador_contraseñas
